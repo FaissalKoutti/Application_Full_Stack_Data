@@ -78,6 +78,9 @@ système d'exploitation. Attention, il faudra la **Docker Compose v1.29.2** pour
 sûr de fonctionner.
 
 # Utilisation
+
+**Veulliez patienter 5 minutes environ par précaution le temps que tous les composants se mettent en place.**
+
 Pour lancer l'application, veuillez suivre les indications suivantes :
 
 1. Créer une instance de *Terminal | Command Prompt | Power Shell* au sein du dossier du projet 
