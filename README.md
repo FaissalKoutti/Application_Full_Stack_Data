@@ -98,3 +98,6 @@ docker-compose up
 "# Application_Full_Stack_Data" 
 "# Application_Full_Stack_Data" 
 "# Application_Full_Stack_Data" 
+
+# Page Search
+La page Search permet à l'utilisateur de sélectionner un intervalle de magnitude spécifique, afin de filtrer les tremblements de Terre et de retourner seulement ceux se situant dans l'intervalle sélectionnée.
